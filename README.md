@@ -1,3 +1,3 @@
-### Primeiro Projeto Hiring Coders
+# Primeiro Projeto Hiring Coders
 
 ## Lista de livros com readline-sync
